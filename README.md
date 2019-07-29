@@ -8,7 +8,7 @@ void f() {
 ```
 
 # What is the value of s?
-```cppp
+```cpp
 int getval() { return 5;}
 namespace std {
     int counter = getval();
